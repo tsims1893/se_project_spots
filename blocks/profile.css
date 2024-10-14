@@ -1,0 +1,53 @@
+.profile {
+  display: flex;
+  padding: 34px 0 20px;
+  border-bottom: 1px rgba(33, 33, 33, 0.4) solid;
+}
+
+.profile__avatar {
+  max-height: 190px;
+  max-width: 190px;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+.profile__column {
+  display: flex;
+  flex-direction: column;
+  width: 420px;
+}
+
+.profile__name {
+  margin: 0 0 12px;
+}
+
+.profile__description {
+  margin: 0;
+}
+
+.profile__edit-btn {
+  margin-top: auto;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: fit-content;
+  height: 16px;
+  border-radius: 90px;
+  color: #212121;
+  opacity: 70%;
+}
+
+.profile__add-btn {
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 8px;
+  background-color: #212121;
+  cursor: pointer;
+  min-width: 157px;
+  min-height: 52px;
+  color: #fcf5e5;
+  padding: 18px 24px 18px 32px;
+  display: flex;
+  gap: 8px;
+}
