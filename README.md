@@ -1,21 +1,37 @@
 # Project 3: Spots
 
-### Overview  
+### Overview
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+- Description
+- Functionality
+- Techniques
+- Images
+- Link
+
+**Description**
+
+An interactive social media web application where users can add and remove photos, like photos of other users, and make a few minor adjustments to their profile
+
+**Functionality**
+
+Implementing responsive design, this project is made so all the elements are displayed correctly on popular screen sizes. The design brief mockup was provided using Figma, the code was implemented in VS Studio and QA tested in the Chrome inspect element.
+
+**Techniques**
+
+- Figma
+- BEM
+- Flex layout
+- Grid layout
+- Hover state
+- Media queries
+- Import fonts via @font-face
+
+**Images**
+
+![Hover State](./images/Screenshots/hover%20state.gif)
+![Responsive Design](./images/Screenshots/responsive%20design.gif)
+![Mobile](./images/Screenshots/mobile.png)
+![Tablet](./images/Screenshots/tablet.png)
+![Desktop](./images/Screenshots/desktop.png)
+
+**Site Link**
