@@ -29,9 +29,10 @@ Implementing responsive design, this project is made so all the elements are dis
 **Images**
 
 ![Hover State](./images/Screenshots/hover%20state.gif)
-![Responsive Design](./images/Screenshots/responsive%20design.gif)
 ![Mobile](./images/Screenshots/mobile.png)
 ![Tablet](./images/Screenshots/tablet.png)
 ![Desktop](./images/Screenshots/desktop.png)
 
 **Site Link**
+
+https://tsims1893.github.io/se_project_spots/
