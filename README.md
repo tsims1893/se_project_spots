@@ -39,4 +39,4 @@ Implementing responsive design, this project is made so all the elements are dis
   https://tsims1893.github.io/se_project_spots/
 
 - Video
-  https://drive.google.com/file/d/1TavaDHbNbiZxJ_Sm47ymtVmGsZhL2yS_/view?usp=sharing
+  https://drive.google.com/file/d/1ZHH9Zx3dMlY-hM3avHuzfcYfk0cfKziN/view?usp=sharing
